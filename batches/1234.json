@@ -1,0 +1,42 @@
+{
+  "batch": {
+    "files": [
+      {
+        "name": "name",
+        "hash": "hash"
+      },
+      {
+        "name": "name",
+        "hash": "hash"
+      }
+    ],
+    "links": [
+      {
+        "name": "name",
+        "url": "url"
+      },
+      {
+        "name": "name",
+        "url": "url"
+      }
+    ],
+    "id": 0,
+    "fields": [
+      {
+        "name": "name",
+        "hash": "hash"
+      },
+      {
+        "name": "name",
+        "hash": "hash"
+      }
+    ]
+  },
+  "token": {
+    "tokenId": "tokenId",
+    "blockchain": "polygon",
+    "transactionHash": "transactionHash",
+    "network": "Mumbai-Testnet",
+    "tokenSmartContractAddress": "tokenSmartContractAddress"
+  }
+}

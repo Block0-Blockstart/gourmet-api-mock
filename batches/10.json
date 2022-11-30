@@ -1,0 +1,42 @@
+{
+  "batch": {
+    "files": [
+      {
+        "name": "name",
+        "hash": "hash"
+      },
+      {
+        "name": "name",
+        "hash": "hash"
+      }
+    ],
+    "links": [
+      {
+        "name": "name",
+        "url": "url"
+      },
+      {
+        "name": "name",
+        "url": "url"
+      }
+    ],
+    "id": 10,
+    "fields": [
+      {
+        "name": "name",
+        "hash": "hash"
+      },
+      {
+        "name": "name",
+        "hash": "hash"
+      }
+    ]
+  },
+  "token": {
+    "tokenId": "95480287202481612807256758977535383554754127204487213222243062926750196432897",
+    "blockchain": "polygon",
+    "transactionHash": "0x24f306b33f4c77ec9a71fd45b525c07909278e9515129fc3545ad443995ca922",
+    "network": "Mumbai-Testnet",
+    "tokenSmartContractAddress": "0xeea59420633c707e9a0f98850a774c0d4e777ae3"
+  }
+}
