@@ -1,4 +1,4 @@
-# Swagger generated server
+# Blockstart Gourmet API mock
 
 ## Overview
 This is a mock of the backend server.
