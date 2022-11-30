@@ -1,0 +1,42 @@
+{
+  "batch": {
+    "files": [
+      {
+        "name": "salmonella_report.pdf",
+        "hash": "e0d123e5f316bef78bfdf5a008837577"
+      },
+      {
+        "name": "name",
+        "hash": "35d91262b3c3ec8841b54169588c97f7"
+      }
+    ],
+    "links": [
+      {
+        "name": "chainpoint",
+        "url": "https://www.chainpoint.com/batch/123"
+      },
+      {
+        "name": "gourmet",
+        "url": "https://gourmet.nl/batch/123"
+      }
+    ],
+    "id": 0,
+    "fields": [
+      {
+        "name": "expirationDate",
+        "hash": "cc273fe9d442850fa18c31c88c823e07"
+      },
+      {
+        "name": "harvestDate",
+        "hash": "ff6626c69507a6f511cc398998905670"
+      }
+    ]
+  },
+  "token": {
+    "tokenId": "95480287202481612807256758977535383554754127204487213222243062926750196432897",
+    "blockchain": "polygon",
+    "transactionHash": "0x24f306b33f4c77ec9a71fd45b525c07909278e9515129fc3545ad443995ca922",
+    "network": "Mumbai-Testnet",
+    "tokenSmartContractAddress": "0xeea59420633c707e9a0f98850a774c0d4e777ae3"
+  }
+}
